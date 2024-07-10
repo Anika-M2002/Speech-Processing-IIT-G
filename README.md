@@ -1,4 +1,4 @@
-                                                    MFCC Feature Extraction for Speech Signals
+                                                MFCC Feature Extraction for Speech Signals
 
 
 The code for MFCC feature extraction was written in Python, Version-3. The code was obtained from relevant online sources. Jupyter environment was used to compile and run the code to get the desired output.
